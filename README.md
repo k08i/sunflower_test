@@ -1,4 +1,4 @@
-# Sunflower assignment - Test Standard
+# Sunflower Assignment - Test Standard
 
 ## Test Purpose
 1.Validate that users can:
